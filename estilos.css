@@ -74,7 +74,7 @@ td,th{
     padding: 8px;
 }
 .boton-cancelar {
-    background-color: #ccc;
+    background-color: #ccc ;
     color: #666; 
     border: none; 
     padding: 10px 20px; 
@@ -84,7 +84,7 @@ td,th{
   }
   
   .boton-cancelar:hover {
-    background-color: #aaa;
+    background-color: #aaaaaa;
     color: #333; 
     box-shadow: 5px 5px 5px #555;
   }

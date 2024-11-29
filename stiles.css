@@ -1,0 +1,44 @@
+*{
+    background: linear-gradient(to left, #00aeff,#1eebcf);
+}
+
+header{
+      background: #ecec11;
+      text-align: center;
+      border-radius: 10px;
+      padding: 1rem;
+      grid-area:encabezado;
+}
+nav{
+    background: #2404da;
+    text-align: center;
+      border-radius: 2px;
+      padding: 1rem;
+      grid-area:menu;
+}
+
+section{
+    background:#f172b2;
+    text-align: center;
+      border-radius: 2px;
+      padding: 1rem;
+      grid-area:contenido;
+}
+
+aside{
+
+    background:green;
+    text-align: center;
+    border-radius: 2px;
+    padding: 1rem;
+    grid-area: submenu;
+}
+
+footer{
+
+    background: #a1f7a1;
+    text-align: center;
+    border-radius: 2px;
+    padding: 1rem;
+    grid-area: pie;
+}
