@@ -40,6 +40,7 @@ input[type="text"], input[type="email"]{
 input[type="text"]:hover, input[type="email"]:hover{
     border: 2px rgb(162, 246,249) solid ;
     box-shadow: 5px 5px 10px #555;
+<<<<<<< HEAD
 }
 
 .button{
@@ -88,3 +89,6 @@ td,th{
     color: #333; 
     box-shadow: 5px 5px 5px #555;
   }
+=======
+}
+>>>>>>> 6e07cc27244b71349945b68c1c158ebf7930a3f8
